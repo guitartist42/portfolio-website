@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "next": "10.2.3",
+    "random-part-of-speech": "^1.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.2.0",
@@ -19,6 +20,7 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
+    "@webpack-cli/generators": "^2.3.0",
     "gh-pages": "^3.2.3"
   }
 }

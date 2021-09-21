@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "next": "10.2.3",
+    "puppeteer": "^10.2.0",
     "random-part-of-speech": "^1.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",

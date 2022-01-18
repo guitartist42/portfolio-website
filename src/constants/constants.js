@@ -10,16 +10,24 @@ export const projects = [
     visit: 'https://github.com/choojoe/dod-4th-medical-team',
     id: 0,
   },
+  // {
+  //   title: <Link href="/ExquisiteCorpses"> Exquisite Corpses UNDER CONSTRUCTION </Link>,
+  //   description: "An app that let's you play with a creative writing game and surrealism technique!",
+  //     image: '/images/exquisite corpse.jpg',
+  //     tags: ['React.js', 'Next.js', 'SQL'],
+  //   source: '',
+  //   visit: 'https://github.com/guitartist42',
+  //   id: 1,
+  // },
   {
-    title: <Link href="/ExquisiteCorpses"> Exquisite Corpses UNDER CONSTRUCTION </Link>,
-    description: "An app that let's you play with a creative writing game and surrealism technique!",
-      image: '/images/exquisite corpse.jpg',
-      tags: ['React.js', 'Next.js', 'SQL'],
-    source: '',
-    visit: 'https://github.com/guitartist42',
+    title: 'Pong Game',
+    description: "A fun arcade game of Pong against the computer.",
+      image:'/images/pongPic.png',
+      tags: ['Canvas.js', 'CSS', 'HTML'],
+    source: 'https://guitartist42.github.io/Pong-Game/',
+    visit: 'https://github.com/guitartist42/Pong-Game',
     id: 1,
   },
- 
 ];
 
 export const TimeLineData = [

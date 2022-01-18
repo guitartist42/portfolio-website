@@ -20,9 +20,13 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
+            HTML/CSS <br />
             React.js <br />
             React Native <br />
-            Next.js
+            Next.js <br />
+            Canvas.js <br />
+            Redux <br />
+            jQuery
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -34,10 +38,11 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Sockets: Python & C <br />
-            OOP in Java & C++ <br />
             Node.js <br />
-            SQL
+            Express.js <br />
+            SQL <br />
+            MongoDB <br />
+            Sockets: Python & C
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -16,10 +16,11 @@ async function adjective(url) {
 
     const [el] = await page.$x('//*[@id="result"]/li/div/span');
     const src = await el.getProperty('src');
+    const srcTxt = await src.jsonValue().innerText();
 
-    console.log({el});
+    console.log({srcTxt});
 
-    browser.close();
+    await browser.close();
 }
 adjective('https://randomwordgenerator.com/adjective.php');
 

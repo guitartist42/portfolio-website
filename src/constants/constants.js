@@ -20,7 +20,7 @@ export const projects = [
   //   id: 1,
   // },
   {
-    title:<Link href = ""> Pong Game LATEST</Link>,
+    title: 'Pong Game',
     description: "A fun arcade game of Pong against the computer.",
       image:'/images/pongPic.png',
       tags: ['Canvas.js', 'CSS', 'HTML'],

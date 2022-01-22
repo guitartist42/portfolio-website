@@ -28,6 +28,15 @@ export const projects = [
     visit: 'https://github.com/guitartist42/Pong-Game',
     id: 1,
   },
+  {
+    title: 'Music Player',
+    description: "A selection of some songs and artists I enjoy to listen to. Included is one of my Piano covers!",
+      image:'/images/music player.png',
+      tags:['Javascript', 'CSS', 'HTML'],
+    source: 'https://guitartist42.github.io/Music-Player/',
+    visit: 'https://github.com/guitartist42/Music-Player',
+    id: 2,
+  },
 ];
 
 export const TimeLineData = [
